@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html>
   <head>
-      <link rel = "stylesheet" type = "text/css" href = "Navbar.css"
+      <link rel = "stylesheet" type = "text/css" href = "Navbar.css">
        <title>AP Psych Study Guide</title> 
   </head>
   <body>
@@ -19,11 +19,13 @@
           <li><a href="#">Unit 1</a></li>
           <li><a href="#">Unit 2</a></li>
           <li><a href="#">Unit 3</a></li>
-          <lil><a href="#">Unit 4</a><li>
+          
         </ul>
       </nav>
     </div>
   </header>
+  <!-- heading -->
+   
 <!-- Paragraph -->
 
 

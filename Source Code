@@ -1,14 +1,31 @@
-<header>
+<!DOCTYPE html>
+<html>
+  <head>
+      <link rel = "stylesheet" type = "text/css" href = "Navbar.css"
+       <title>AP Psych Study Guide</title> 
+  </head>
+  <body>
+
+
+ <!-- navigation bar -->
+    <header>
     <div class="container">
-      <h1 class="logo"></h1>
+      <h1 class="logo"><h1>
+      <img src="AP Psych Logo.jpg" alt= " Psychology Logo" class = "logo">
 
       <nav>
         <ul>
           <li><a href="#">Home</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Pricing</a></li>
-          <li><a href="#">Contact</a></li>
+          <li><a href="#">Unit 1</a></li>
+          <li><a href="#">Unit 2</a></li>
+          <li><a href="#">Unit 3</a></li>
+          <lil><a href="#">Unit 4</a><li>
         </ul>
       </nav>
     </div>
   </header>
+<!-- Paragraph -->
+
+
+</body>
+</html>
